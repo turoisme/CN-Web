@@ -1,0 +1,1 @@
+//Card hiển thị 1 list
